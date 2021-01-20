@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:configChanges="locale"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context="com.alcove.partners.siyu.Emergency">
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:background="#ffa500"
+        android:layout_height="60dp">
+        <ImageView
+            android:layout_width="15dp"
+            android:layout_height="37dp"
+            android:onClick="gotoPrevious"
+            app:srcCompat="@drawable/backarrow" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/a5"
+            android:textStyle="bold"
+            android:layout_marginLeft="40dp"
+            android:textColor="#FFFFFF"
+            android:textSize="25dp"
+            />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            >
+            <ImageView
+                android:id="@+id/home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/ic_home_black_24dp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginRight="10dp"
+                android:layout_alignParentRight="true" />
+        </RelativeLayout>
+
+
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/danger"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/ambulance"
+            android:layout_alignParentLeft="true"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/danger"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="41dp"
+            android:layout_marginTop="-2dp"
+            android:text="Ambulance"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/fire"
+            android:layout_width="150dp"
+            android:layout_height="155dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/firestation"
+            android:layout_alignParentRight="true"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/fire"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="281dp"
+            android:layout_marginTop="-1dp"
+            android:text="Fire Station"
+            android:textSize="15sp" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:layout_alignParentLeft="true"
+            android:id="@+id/police"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:background="@drawable/policestation"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/police"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="61dp"
+            android:layout_marginTop="0dp"
+            android:text="Police"
+            android:textSize="15sp" />
+
+        <Button
+            android:layout_alignParentRight="true"
+            android:id="@+id/medical"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:background="@drawable/hospital"
+            android:onClick="hospital"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/medical"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="-2dp"
+            android:layout_marginEnd="41dp"
+            android:layout_marginRight="41dp"
+            android:text="Hospital"
+            android:textSize="15sp" />
+
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>
+
+
+

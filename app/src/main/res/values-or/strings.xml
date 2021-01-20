@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ସିୟୁବିଜ଼ାଗ  </string>
+    <string name="change">ଚାଙ୍ଗ  ଲଙ୍ଗୁଆଗେ</string>
+    <string name="a1">ଫୂଡ଼</string>
+    <string name="a2">ହୋଟେଲସ   </string>
+    <string name="a3">ଫାର୍ସ </string>
+    <string name="a4">ତୌରିସମ </string>
+    <string name="a5">ଏମେର୍ଜେଙ୍କୟା </string>
+    <string name="a6">ଫୀଦବଚକ </string>
+    <string name="a7">ଫାର୍ମ  </string>
+    <string name="a8">ତୋ</string>
+    <string name="a9">ସୁବିମ୍ୱିତ </string>
+    <string name="a10">ନାମେ  :</string>
+    <string name="a11">ଅନ୍ୟ  ଇମ୍ପ୍ରଵେମେଂଟସ /ସୂଜଗେଶ୍ୱସଂସ :</string>
+    <string name="a12">ରେସ୍ଟଉଁରଣ୍ଟସ </string>
+    <string name="a13">ଆରେଏ   :</string>
+    <string name="a14">ଟିପିଏ  ଅ  ଚୁଇଁସିନେ :</string>
+    <string name="a15">ଲୋକେସନ :</string>
+    <string name="a16">ଡିଷ୍ଟାନ୍ସ :</string>
+    <string name="a17">ବୁଶ ଫରେ :</string>
+    <string name="a18">ଆଉଟ ଫରେ :</string>
+    <string name="a19">ହସ୍ପିଟାଲସ </string>
+    <string name="a20">ହସ୍ପିଟାଲସ ଇଂ ବିଜ଼ାଗ :</string>
+    <string name="a21">ବାଣ୍ଟ  ତୋ  କଣ୍ଣବ  ମୋର  ଇନ୍ଫୋ ? ସିଲିକଙ୍କ  ଓଂ  ଥେ   ନାମେ  .</string>
+    <string name="a22">ଚୁଇଁସିନେ:</string>
+    <string name="a23">ୱାଡ଼ଡ୍ରେସ୍ରେ :</string>
+    <string name="a24">ଫୋନେ ନୁଁମ୍ବର :</string>
+    <string name="a25">ବଣ୍ଣ  ମାକ୍ୱେ  ଏ କୋଳ? ଜୁସତ  ସିଲିକଙ୍କ  ଓଂ  ଥେ ନୁଁମ୍ବର.</string>
+    <string name="a26">ପ୍ଳାସସ </string>
+    <string name="a27">ପରିସ</string>
+    <string name="a28">ହୋଟେଲସ ନାମେ  : </string>
+    <string name="a29">ପ୍ଳାସସ ତୋ ବିଶିତ </string>
+    <string name="a30">( ଅପ୍ପରସଇମତେ )</string>
+    <string name="a31">ଷୋୖରଚେ ତୋ ଡେଷ୍ଟିନେସନ </string>
+    <string name="a32">ସୂଚନା</string>
+    <string name="a33">ବର୍ଣ୍ଣନା</string>
+    <string name="a34">ଇମେଲ୍ |
+:</string>
+    <string name="a35">
+ଫୋନ୍ |:</string>
+
+    <array name="content">
+        <item>ରେଷ୍ଟୁରାଣ୍ଟ |</item>
+        <item>ଆବାସ
+        </item>
+        <item>ପର୍ଯ୍ୟଟନ</item>
+        <item>ଭଡା</item>
+    </array>
+
+
+</resources>

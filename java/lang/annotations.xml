@@ -1,0 +1,5 @@
+<root>
+    <item name='java.lang.Thread inheritedAccessControlContext'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

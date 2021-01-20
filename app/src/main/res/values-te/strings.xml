@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">
+సియువైజాగ్ </string>
+    <string name="change">
+భాష మార్చు</string>
+    <string name="a1">ఆహార</string>
+    <string name="a2">హోటల్స్</string>
+    <string name="a3">ఛార్జీలు</string>
+    <string name="a4">
+పర్యాటక</string>
+    <string name="a5">అత్యవసర</string>
+    <string name="a6">
+అభిప్రాయం</string>
+
+    <string name="a7">నుండి</string>
+    <string name="a8">నుండి</string>
+    <string name="a9">సమర్పించు</string>
+    <string name="a10">పేరు:</string>
+    <string name="a11">
+ఏ మెరుగుదలలు/
+సలహాలు:</string>
+    <string name="a12">
+రెస్టారెంట్లు</string>
+    <string name="a13">
+ప్రాంతం :</string>
+    <string name="a14">
+వంటకాలు రకం :</string>
+    <string name="a15">
+స్థానం:</string>
+    <string name="a16">దూరం:</string>
+    <string name="a17">
+బస్సు చార్జీ:</string>
+    <string name="a18">ఆటో చార్జీ:</string>
+    <string name="a19">హాస్పిటల్స్</string>
+    <string name="a20">వైజాగ్ లో హాస్పిటల్స్:</string>
+    <string name="a21">మరింత సమాచారం తెలుసుకోవాలనుకుంటున్నారా? పేరు మీద క్లిక్ చేయండి</string>
+    <string name="a22">రకం:</string>
+    <string name="a23">చిరునామా:</string>
+    <string name="a24">ఫోను నంబరు:</string>
+    <string name="a25">కాల్ చేయాలనుకుంటున్నారా? కేవలం ఫోన్ నంబర్పై క్లిక్ చేయండి.</string>
+    <string name="a26">స్థలాలు</string>
+    <string name="a27">ధర</string>
+    <string name="a28">హోటల్ పేరు: </string>
+    <string name="a29">
+సందర్శిచవలసిన ప్రదేశాలు</string>
+    <string name="a30">( సరాసరి )</string>
+    <string name="a31"> మూలం గమ్యస్థానం</string>
+    <string name="a32">సమాచారం</string>
+    <string name="a33">వివరణ</string>
+    <string name="a34">
+ఇమెయిల్:</string>
+    <string name="a35">ఫోన్:</string>
+
+    <array name="content">
+        <item>రెస్టారెంట్</item>
+        <item>వసతి</item>
+        <item>
+            పర్యాటక</item>
+        <item>ఛార్జీలు</item>
+    </array>
+</resources>

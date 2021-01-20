@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">িইউভাইজাগ</string>
+    <string name="change">ভাষা পরিবর্তন করুন</string>
+    <string name="a1">
+খাদ্য</string>
+    <string name="a2">
+হোটেল</string>
+    <string name="a3">ফারেস</string>
+    <string name="a4">ভ্রমণব্যবস্থা</string>
+    <string name="a5">জরুরি অবস্থা</string>
+    <string name="a6">প্রতিক্রিয়া</string>
+    <string name="a7">
+থেকে</string>
+    <string name="a8">থেকে</string>
+    <string name="a9">জমা দিন</string>
+    <string name="a10">নাম:</string>
+
+    <string name="a11">কোন উন্নতি/
+পরামর্শ:</string>
+    <string name="a12">রেস্টুরেন্ট</string>
+    <string name="a13">ফোন :</string>
+    <string name="a14"> আদর্শ
+এর রন্ধনপ্রণালী:</string>
+    <string name="a15">
+অবস্থান:</string>
+    <string name="a16">দূরত্ব:</string>
+    <string name="a17">
+বাস ভাড়া:</string>
+    <string name="a18">অটো ভাড়া:</string>
+
+    <string name="a19">হাসপাতাল</string>
+    <string name="a20">
+ভিজগ হাসপাতাল:</string>
+    <string name="a21">আরো তথ্য জানতে চান? নাম উপর ক্লিক করুন</string>
+    <string name="a22">আদর্শ:</string>
+    <string name="a23">ঠিকানা:</string>
+    <string name="a24">
+ফোন নম্বর:</string>
+    <string name="a25">একটি কল করতে চান? শুধু ফোন নম্বর ক্লিক করুন.</string>
+    <string name="a26">জায়গা</string>
+    <string name="a27">মূল্য</string>
+    <string name="a28">হোটেল নাম: </string>
+    <string name="a29">দেখার জায়গা
+</string>
+    <string name="a30">(আনুমানিক)</string>
+    <string name="a31">গন্তব্য উত্স</string>
+    <string name="a32">তথ্য</string>
+    <string name="a33">বর্ণনা</string>
+    <string name="a34">ইমেল:</string>
+    <string name="a35">ফোন:</string>
+
+    <array name="content">
+        <item>রেঁস্তোরা</item>
+        <item>
+            থাকার ব্যবস্থা</item>
+        <item>
+            পর্যটন</item>
+        <item>
+            ভাড়া</item>
+    </array>
+
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">सीू
+यू
+विजाग</string>
+    <string name="change">भाषा बदलो</string>
+    <string name="a1">भोजन</string>
+    <string name="a2">
+होटल</string>
+    <string name="a3">किराए</string>
+    <string name="a4">पर्यटन</string>
+    <string name="a5">आपातकालीन</string>
+    <string name="a6">प्रतिक्रिया</string>\
+    <string name="a7">से</string>
+    <string name="a8">से</string>
+    <string name="a9">जमा करें</string>
+    <string name="a10">
+नाम:</string>
+    <string name="a11">कोई भी सुधार/सुझाव:</string>
+    <string name="a12">
+रेस्टोरेंट</string>
+    <string name="a13">क्षेत्र :</string>
+    <string name="a14">भोजन का प्रकार:</string>
+    <string name="a15">स्थान:</string>
+    <string name="a16">दूरी:</string>
+    <string name="a17">बस किराया:</string>
+    <string name="a18">ऑटो का किराया:</string>
+    <string name="a19">अस्पताल</string>
+    <string name="a20">
+विजाग में अस्पताल:</string>
+    <string name="a21">अधिक जानकारी जानना चाहते हैं?  नाम पर क्लिक करें</string>
+    <string name="a22">प्रकार:</string>
+    <string name="a23">पता:</string>
+    <string name="a24">फ़ोन नंबर
+:</string>
+    <string name="a25">कॉल करें? बस फोन नंबर पर क्लिक करें.</string>
+    <string name="a26">स्थान</string>
+    <string name="a27">मूल्य</string>
+    <string name="a28">होटल नाम:</string>
+    <string name="a29">घूमने के स्थान
+</string>
+    <string name="a30">
+(लगभग)</string>
+    <string name="a31">गंतव्य का स्रोत</string>
+    <string name="a32">जानकारी</string>
+    <string name="a33">
+विवरण</string>
+    <string name="a34">ईमेल:</string>
+    <string name="a35">
+फ़ोन:</string>
+
+    <array name="content">
+        <item>खाने की दुकान
+        </item>
+        <item>
+            आवास</item>
+        <item>पर्यटन</item>
+        <item>किराए</item>
+    </array>
+
+
+</resources>

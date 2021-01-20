@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".about"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            android:background="#ffa500"
+            android:layout_height="60dp">
+
+            <ImageView
+                android:layout_width="15dp"
+                android:layout_height="37dp"
+                android:onClick="homeButton"
+                app:srcCompat="@drawable/backarrow" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="About"
+                android:textSize="25dp"
+                android:layout_margin="10dp"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"/>
+
+    <!--
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <ImageView
+                    android:onClick="home"
+                    android:id="@+id/home"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/ic_baseline_home_24"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginRight="10dp"
+                    android:layout_alignParentRight="true"
+                    tools:ignore="VectorDrawableCompat" />
+            </RelativeLayout>
+    -->
+
+
+        </androidx.appcompat.widget.Toolbar>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Alcove provides capital and mentoring, as well as introductions to other investors."
+            android:textColor="#EB0808"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/about"
+            android:text="We are strategically investing in product companies in order to leverage service opportunities. We partner with service companies that can capitalize on the products that we have invested in.
+    After the new state of Andhra Pradesh was separated from Telangana, the vast majority of the previously existing business establishments were stranded in Hyderabad. The new Andhra Pradesh badly needed its own base for business, innovation and revenue generation. One way to achieve this objective was to develop an environment where new businesses would thrive. Thus, Alcove was founded to foster a local start-up ecosystem, and evolved to support start-ups wherever they might be.
+    With a team of professionals from the fields of Information Technology, ITES, Health Care and Finance, we assist business innovators as they navigate the unique challenges of achieving sustainable growth in their concept."
+            android:textColor="#00ff00"
+            android:layout_margin="10dp"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center"
+            android:textSize="19sp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:linksClickable="true"
+            android:text="http://alcovepartners.com/siyu-vizag"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:textSize="17sp"
+            android:autoLink="web"
+            />
+
+    </LinearLayout>
+</ScrollView>

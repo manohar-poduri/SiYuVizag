@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SiYuVizag</string>
+    <string name="change">Change language</string>
+    <string name="a1">Food</string>
+    <string name="a2">Accommodation</string>
+    <string name="a3">Fares</string>
+    <string name="a4">Tourism</string>
+    <string name="a5">Emergency</string>
+    <string name="a6">Feedback:</string>
+    <string name="a7">From</string>
+    <string name="a8">To</string>
+    <string name="a9">SUBMIT</string>
+    <string name="a10">Name:</string>
+    <string name="a11">Any Improvements/Suggestions:</string>
+    <string name="a12">Restaurants</string>
+    <string name="a13">Area :</string>
+    <string name="a14">Type of Cuisine:</string>
+    <string name="a15">Location:</string>
+    <string name="a16">Distance:</string>
+    <string name="a17">Bus Fare:</string>
+    <string name="a18">Auto Fare:</string>
+    <string name="a19">Hospitals</string>
+    <string name="a20">Hospitals in Vizag:</string>
+    <string name="a21">Want to know more info? Click on the  name</string>
+    <string name="a22">Type:</string>
+    <string name="a23">Address:</string>
+    <string name="a24">Phone Number:</string>
+    <string name="a25">Wanna make a call? Just click on the number.</string>
+    <string name="a26">Places</string>
+    <string name="a27">Price:</string>
+    <string name="a28">Hotel Name</string>
+    <string name="a29">Places to Visit</string>
+    <string name="a30">(Approximate)</string>
+    <string name="a31">Source to Destination</string>
+    <string name="a32">Info</string>
+    <string name="a33">Description</string>
+    <string name="a34">Email:</string>
+    <string name="a35">Phone:</string>
+    <array name="content">
+        <item>Restaurant</item>
+        <item>Accommodation</item>
+        <item>Tourism</item>
+        <item>Fares</item>
+    </array>
+
+</resources>
+

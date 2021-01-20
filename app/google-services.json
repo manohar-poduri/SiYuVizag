@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "785230940660",
+    "firebase_url": "https://siyuvizag-android-app.firebaseio.com",
+    "project_id": "siyuvizag-android-app",
+    "storage_bucket": "siyuvizag-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785230940660:android:1238005d95b305dbac51a1",
+        "android_client_info": {
+          "package_name": "com.alcove.partners.siyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785230940660-om6u4vpktkd6h87gt7licstvtqsac2qd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alcove.partners.siyu",
+            "certificate_hash": "650b91516f69e33ec417458a8364018d0dd460ef"
+          }
+        },
+        {
+          "client_id": "785230940660-rpl6vlsq4bptipgq6nhjl5l6j9300930.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc6c5xPeOIZv84HfZ_q1VH3YirDlFeQI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785230940660-rpl6vlsq4bptipgq6nhjl5l6j9300930.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
